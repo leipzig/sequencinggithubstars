@@ -1,0 +1,30 @@
+illumina	Illumina
+novaseq	Illumina
+nanoporetech	Nanopore
+pacificbiosciences	PacBio
+ultimagen	Ultimagen
+MGI-tech-bioinformatics	MGI
+10xgenomics	10x Genomics
+epi2me-labs	Nanopore
+roche	Roche
+RocheSequencing	Roche
+Nanostring-Biostats	NanoString
+qiagen	Qiagen
+elembio	Element
+ScaleBio	10x Genomics
+parse-biosciences	Parse
+missionbio	Mission Bio
+Singular-Genomics	Singular Genomics
+thermofisher	Thermo Fisher
+Agilent	Agilent Technologies
+complete-genomics	Complete Genomics
+genapsys	Genapsys
+stratos-genomics	Stratos Genomics
+quantum-si	Quantum-Si
+cellecta	Cellecta
+fluigent	Fluigent
+biolegend	BioLegend
+tecan	Tecan
+becls	Beckman Coulter
+eppendorf	Eppendorf
+twist-bioscience	Twist Bioscience
